@@ -1,0 +1,13 @@
+Cooking Recipe Database
+
+Create A Food Recipe App Using Vanilla JavaScript 
+
+edamam API is used.
+Recipe Search API
+
+Edamam details-
+Username - Pallav
+Password - Pallav#100
+email - 481_bt19@iiitkalyani.ac.in
+
+
